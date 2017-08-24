@@ -1,6 +1,7 @@
 # tooling.js _(@ianwremmel/tooling.js)_
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/ianwremmel/tooling.js.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fianwremmel%2Ftooling.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fianwremmel%2Ftooling.js?ref=badge_shield)
 
 [![CircleCI](https://img.shields.io/circleci/project/github/ianwremmel/tooling.js.svg?style=flat-square)](https://circleci.com/gh/ianwremmel/tooling.js/tree/master)
 [![npm (scoped)](https://img.shields.io/npm/v/@ianwremmel/tooling.js.svg?style=flat-square)](https://www.npmjs.com/package/@ianwremmel/tooling.js)
@@ -315,3 +316,6 @@ PRs accepted. Please lint and test your code with `npm test`
 
 ## License
 [MIT &copy; Ian W. Remmel](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fianwremmel%2Ftooling.js.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fianwremmel%2Ftooling.js?ref=badge_large)
