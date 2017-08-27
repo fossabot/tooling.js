@@ -43,8 +43,8 @@
     "lint-staged": "^4.0.0",
     "mocha": "^3.1.2",
     "pre-commit": "^1.2.2",
-    "semantic-release": "^6.3.5",
-    "sinon": "2.3.8"
+    "semantic-release": "^7.0.2",
+    "sinon": "2.4.0"
   },
   "engines": {
     "node": ">=6.x"
